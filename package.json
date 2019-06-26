@@ -1,0 +1,25 @@
+{
+  "name": "rpc-tutorial",
+  "version": "1.0.0",
+  "description": "Node divid-rpc Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/99darwin/node-rpc-tutorial.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "blockchain",
+    "tutorial",
+    "divi"
+  ],
+  "author": "99darwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/99darwin/node-rpc-tutorial/issues"
+  },
+  "homepage": "https://github.com/99darwin/node-rpc-tutorial#readme"
+}
