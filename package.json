@@ -4,7 +4,8 @@
   "description": "Node divid-rpc Tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/99darwin/node-rpc-tutorial/issues"
   },
-  "homepage": "https://github.com/99darwin/node-rpc-tutorial#readme"
+  "homepage": "https://github.com/99darwin/node-rpc-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "divid-rpc": "^3.0.92",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
 }
